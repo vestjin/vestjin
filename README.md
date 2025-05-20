@@ -5,13 +5,13 @@
 </p>
 
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning new technologies and solving real-world problems. Currently, I'm a student at Hebei University of Science and Technology, majoring in Computer Science.
+  Welcome to my GitHub profile! I'm a passionate developer with a love for learning new technologies and solving real-world problems. Currently, I'm a student at Hebei University of Science and Technology, majoring in Computer Science.
 
 
 ### ⏰ Current Time
 
 <!-- DYNAMIC_TIME -->
-Current Time: 2024-08-14 12:00:00 UTC
+
 
 
 
