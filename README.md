@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [VestJin]!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5EBFF1&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5EBFF1&center=true&vCenter=true&width=500&height=70&lines=WWelcome+to+my+GitHub+Profile!;I'm+a+passionate+Developer!" alt="Typing SVG" />
 </p>
 
 
