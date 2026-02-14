@@ -1,29 +1,18 @@
 # Hi there 👋, I'm [VestJin]!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5EBFF1&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%7C+CS+Student;Learning+Machine+Learning+%7C+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF1&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;CS+Student+%40+Hebei+UST;Focusing+on+C%2FC%2B%2B+Performance+and+Algorithms" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="mailto:17633088571@163.com"><img src="https://img.shields.io/badge/Email-17633088571@163.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vestjin.vestjin" alt="visitor badge"/>
-</p>
-
----
-
-### ⏰ Current Time
-
-<!-- DYNAMIC_TIME -->
 
 ---
 
 ### 🚀 About Me
 
 - 🎓 I'm currently studying **Computer Science** at Hebei University of Science and Technology.
-- 🌱 I’m currently learning **Python**, focusing on **Machine Learning** and **Data Science**.
-- 💻 I have a solid foundation in **C/C++** and enjoy low-level logic & algorithms.
-- 🐧 I'm a **Linux** enthusiast and love playing around with the terminal.
-- 👯 I’m looking to collaborate on **open-source projects**.
+- 🌱 I’m currently focusing on **C/C++ performance**, **scientific computing**, and **algorithms**.
+- 💻 My main programming languages are **C/C++** and **Python**. I also work with **SQL** frequently.
+- 🐧 I'm a **Linux** enthusiast and enjoy exploring the terminal.
+- 📫 How to reach me: **17633088571@163.com**
 - ⚡ Fun fact: I love exploring new tech gadgets and free stuff that programmers can show off! 😎
 
 ---
@@ -43,25 +32,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Fun & Extras
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vestjin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="VestJin's Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vestjin&layout=compact&theme=tokyonight&hide_border=true" alt="VestJin's Top Languages" width="48%"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vestjin&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vestjin/vestjin/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
----
-
-### 🧩 Code Snippet
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=def+greet(name):;++++return+f%22Hello%2C+%7Bname%7D!%22;print(greet(%22World%22))" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=%22Done+is+Better+than+Perfect%22" alt="Quote" />
 </p>
 
 <p align="center">
